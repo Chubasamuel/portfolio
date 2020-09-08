@@ -54,7 +54,7 @@
         },
         {
           name: 'JavaScript',
-          level: 30
+          level: 82
         },
         {
           name: 'HTML5',
@@ -65,23 +65,23 @@
           level: 60
         },
         {
-          name: 'SQL, PL/SQL',
-          level: 30
+          name: 'SQL, MySQL, SQLite3',
+          level: 73
         },
         {
-          name: 'C#',
-          level: 15
-        }
+          name: 'Java',
+          level: 65
+        },
+	{
+	name: 'Kotlin',
+	level: 25
+	}
       ],
       libraries: [
         {
-          name: 'Laravel 5.6+',
-          level: 40
-        },
-        {
-          name: 'Vue.js 2.0+',
-          level: 35
-        },
+          name: 'Vue.js',
+	  level: 57
+ },
         {
           name: 'Bootstrap',
           level: 50
@@ -89,7 +89,11 @@
         {
           name: 'jQuery',
           level: 30
-        }
+        },
+	{
+	name: "Angular",
+	level: 43
+	}
       ]
     })
   }

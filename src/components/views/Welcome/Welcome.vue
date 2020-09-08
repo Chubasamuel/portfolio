@@ -1,15 +1,14 @@
 <template>
     <div class="welcome-content">
         <div class="me">
-            <img src="../../../../static/images/me.png"/>
-            <span class="my-name">Hey, I am Kacper.</span>
+            <img src="../../../../static/images/me.jpg"/>
+            <span class="my-name">Hey, I am Chuba Samuel.</span>
         </div>
         <div class="description">
             <span class="rest-info">
-                I am 22 years old web developer living in Poland.
+                I am 23 years old Web and Android developer living in Nigeria.
                 I love both, Front-End and Back-End.
-                My passion is also Game Developing, I have created and published an arcade android game.
-                Currently I work as Full Stack web developer in my home city - Elbląg.
+                My passion is also Utility app Development.
             </span>
         </div>
     </div>

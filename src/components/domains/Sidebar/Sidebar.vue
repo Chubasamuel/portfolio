@@ -2,16 +2,13 @@
     <div class="sidebar">
         <ul>
             <li>
-                <a href="https://github.com/kacperorzechowski"><font-awesome-icon :icon="['fab', 'github']"/></a>
+                <a href="https://github.com/chubasamuel"><font-awesome-icon :icon="['fab', 'github']"/></a>
             </li>
             <li>
-                <a href="https://twitter.com/k_orzechowski96"><font-awesome-icon :icon="['fab', 'twitter']"/></a>
+                <a href="https://twitter.com/chuba_sam"><font-awesome-icon :icon="['fab', 'twitter']"/></a>
             </li>
             <li>
-                <a href="https://play.google.com/store/apps/details?id=com.KacperOrzechowski.dragSquare"><font-awesome-icon :icon="['fab', 'android']"/></a>
-            </li>
-            <li>
-                <a href="https://www.linkedin.com/in/kacperorzechowski/"><font-awesome-icon :icon="['fab', 'linkedin']"/></a>
+                <a href="https://www.linkedin.com/in/chubasamuel/"><font-awesome-icon :icon="['fab', 'linkedin']"/></a>
             </li>
         </ul>
     </div>

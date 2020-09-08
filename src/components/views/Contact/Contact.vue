@@ -1,6 +1,6 @@
 <template>
     <div>
-        Content will be here.. soon ;)
+        <a href="https://facebook.com/jeremiahdavid.samuel">Facebook</a>
     </div>
 </template>
 <script>
